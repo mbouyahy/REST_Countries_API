@@ -5,7 +5,7 @@ This is a **React.js web application** that fetches country data from the **REST
 ## 🚀 Features
 
 ✅ **Built with React.js** ⚛️  
-✅ Fetches **real-time country data** from the **REST Countries API** 🌍  
+✅ Fetches **real-time country data** from the **[REST Countries API](https://restcountries.com/)** 🌍  
 ✅ Displays essential details like:  
    - Name 🇺🇳  
    - Flag 🏳️  
