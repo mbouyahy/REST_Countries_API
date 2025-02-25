@@ -1,6 +1,6 @@
 # 🌍 Rest Countries API with Color Theme Switcher (React.js)
 
-This is a **React.js web application** that fetches country data from the **REST Countries API** and displays it in a beautifully designed interface. The app allows users to **search for countries, filter by region**.  
+This is a **React.js web application** that fetches country data from the **REST Countries API** and displays it. The app allows users to **search for countries, filter by region**.  
 
 ## 🚀 Features
 
