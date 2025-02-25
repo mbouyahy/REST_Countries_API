@@ -43,5 +43,5 @@ This is a **React.js web application** that fetches country data from the **REST
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-username/rest-countries-api-with-color-theme-switcher-master.git
+   git clone https://github.com/mbouyahy/REST_Countries_API.git
 
