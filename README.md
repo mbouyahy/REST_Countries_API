@@ -32,10 +32,10 @@ This is a **React.js web application** that fetches country data from the **REST
 ## 📸 Screenshots
 
 ### 🏠 Home Page (Mobile)
-![For Mobile](./assets/mobile.png)
+![For Mobile](public/mobile.png)
 
 ### 🌙 Home Page (Desktop)
-![For Desktop](./assets/desktop.png)
+![For Desktop](public/desktop.png)
 
 ---
 
