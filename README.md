@@ -23,7 +23,7 @@ This is a **React.js web application** that fetches country data from the **REST
 
 - **React.js** - Frontend framework  
 - **React Router** - For navigation and dynamic routing  
-- **Styled Components** - For styling  
+- **Styled Components / CSS** - For styling  
 - **Axios / Fetch API** - For making API requests  
 - **REST Countries API** - Fetches real-time country data  
 
